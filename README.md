@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I'm a **Business Data Analytics student** at COMSATS University Islamabad (2023–2027) and an independent builder based in the Islamabad–Rawalpindi area, Pakistan. I sit at the intersection of **business analytics, deep learning, and web design**: I like shipping things that are functional, accurate, and grounded in real data, not just good-looking demos.
+I'm a **Business Data Analytics student** at COMSATS University Islamabad (2023–2027) and an independent builder. I sit at the intersection of **business analytics, deep learning, web design and Full-Stack AI Development**: I like shipping things that are functional, accurate, and grounded in real data, not just good-looking demos.
 
 - 🧠 **AI / Data:** RAG system architecture, NLP, deep learning, predictive analytics, data engineering
 - 🌐 **Web:** Full-stack apps, frontends with real design care, brand and UI work
